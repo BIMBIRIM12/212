@@ -1,9 +1,8 @@
-﻿
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, World!");
 string a = Console.ReadLine();
-if (a == "1")
+if (a == "2")
 {
-    Console.WriteLine("One");
+    Console.WriteLine("two");
 }
 else
 {
