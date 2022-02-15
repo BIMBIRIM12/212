@@ -9,3 +9,4 @@ else
 {
     Console.WriteLine(a);
 }
+Console.WriteLine(1)
